@@ -22,11 +22,11 @@ h2{
   color: #918E9B;
 }
 
-.bol d{
+.bold{
   font-weight: bold;
 }
 
-.nav--logo{
+.logo{
   max-width: 100px;
 }
 section{
@@ -36,28 +36,28 @@ section{
   display: flex;
   flex-direction: column;
 }
-.hero-photo {
+.hero_photo {
   max-width: 400px;
   align-self: center;
 }
-.hero-header{
+.hero_header{
   margin-bottom: 16px;
 }
-.hero-text{
+.hero_text{
   margin-top: 0;
 }
 .card{
   width: 175px;
   font-size: 0.75rem ;
 }
-.card--image {
-  width: 100%;
+.card_image {
+  width: 25%;
   border-radius: 9px;
 }
-.card--stats {
+.card_stats {
   display: flex;
   align-items: center;
 }
-.card--star {
+.card_star {
   height: 14px;
 }
